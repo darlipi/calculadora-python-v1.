@@ -1,4 +1,4 @@
-# calculadora-python-v1.
+# calculadora-python-v1
 "Este es mi primer proyecto en Python. Es una calculadora básica por consola que permite realizar operaciones aritméticas fundamentales.
 
 ## 🚀 Características
